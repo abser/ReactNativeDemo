@@ -1,0 +1,3 @@
+[submodule "TalkJs"]
+	path = TalkJs
+	url = https://github.com/abser/TalkJs.git
